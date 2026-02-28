@@ -15,7 +15,7 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCBvwuDst13VtMOTBW3LlIjIcdN6zeibos",
+  apiKey: "",
   authDomain: "test-project-2c898.firebaseapp.com",
   projectId: "test-project-2c898",
   storageBucket: "test-project-2c898.firebasestorage.app",
